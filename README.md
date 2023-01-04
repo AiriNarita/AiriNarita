@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://zenn.dev/airiswim](https://zenn.dev/airiswim)
 
-<h3 align="left">Connect with me: [https://zenn.dev/airiswim](https://zenn.dev/airiswim)</h3>
+<h3 align="left">Connect with me:</h3> [https://zenn.dev/airiswim](https://zenn.dev/airiswim)
 <p align="left">
 </p>
 
