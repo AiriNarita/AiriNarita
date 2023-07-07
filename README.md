@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=airinarita" alt="airinarita" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby(Ruby on rails), Javascript, Typescript, HTML5, CSS3, SASS**
+- 🌱 I’m currently learning **Ruby(Ruby on rails), Javascript, Typescript, React, Java(Spring Boot) HTML5, CSS3, SASS**
 
 - 📝 I regularly write articles on [https://zenn.dev/airiswim](https://zenn.dev/airiswim)
 
