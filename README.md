@@ -7,7 +7,16 @@
 
 - 🌱 I’m currently learning Kotlin , Java , SpringBoot,  etc....
 
-- 📝 I regularly write articles on [https://zenn.dev/airiswim](https://zenn.dev/airiswim)
+- 📝 I regularly write articles on [https://zenn.dev/airiswim](https://zenn.dev/airiswim)<br>
+    <a href="https://zenn.dev/airiswim">
+    <img src="https://zenn.badge.nikaera.com/s/airiswim/likes?style=social" alt="airiswim likes" />
+  </a>
+  <a href="https://zenn.dev/airiswim/articles">
+    <img src="https://zenn.badge.nikaera.com/s/airiswim/articles?style=social" alt="airiswim articles" />
+  </a>
+  <a href="https://zenn.dev/airiswim/followers">
+    <img src="https://zenn.badge.nikaera.com/s/airiswim/followers?style=social" alt="airiswim followers" />
+  </a>
 
 - 🖥 Every weekend study at [Tamastudy](https://tamastudy.com)
 
