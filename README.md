@@ -56,7 +56,7 @@
   <a href="https://linkedin.com/in/airinarita" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="naritaairi.dev@gmail.com">
+  <a href="airinarita.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
 </p>
