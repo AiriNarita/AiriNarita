@@ -1,8 +1,17 @@
 
 <h1 align="center">👋 Hi, I'm Narita</h1>
-<h3 align="center">A passionate backend developer<br>~ Life is all about challenges. ~</h3>
 
-<p align="center">元鍼灸師・柔道整復師のWEBエンジニア</p>
+
+
+<p align="center">
+  <img width="150" align="left"　alt="me" src="https://github.com/user-attachments/assets/98160f1f-2b90-4783-a5ec-5c40097ad857" />
+　<img width="150" align="right"　alt="rose" src="https://github.com/user-attachments/assets/effa0e77-c84d-48ba-a5d3-5b79eb2bdcad" />
+  <h3 align="center">A passionate backend developer<br>~ Life is all about challenges. ~<br><span style="font-weight: normal; font-size: 16px;">元鍼灸師・柔道整復師のWEBエンジニア</span></h3>
+</p>
+
+
+
+
 
 
 
