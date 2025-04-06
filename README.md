@@ -7,6 +7,7 @@
 　<img width="150" align="right"　alt="rose" src="https://github.com/user-attachments/assets/effa0e77-c84d-48ba-a5d3-5b79eb2bdcad" />
   <h3 align="center">A passionate backend developer<br>~ Life is all about challenges. ~</h3>
   <p align="center"　style="font-weight: normal; font-size: 16px;">元鍼灸師・柔道整復師のWEBエンジニア</p>
+  <p align="center"　style="font-weight: normal; font-size: 16px;">💻 <a href="https://www.airi-nook.com/">Airi's Dev Nookはこちら</a>(🔨一部改修中🚧)</p>
 </p>
 
 
@@ -23,7 +24,7 @@
 
 ## 🏆 Featured Projects (個人開発)
 - [**鍼灸院はりまる HP**](https://www.shinkyu-harimaru.com/) - リポジトリはPrivateにしておりますがぜひサイトをご覧ください
-- **Airi's Dev Nook**(近日公開予定)[(📍リポジトリ)](https://github.com/AiriNarita/airi-hp)
+- [**Airi's Dev Nook**](https://www.airi-nook.com) 
 - **Slack_GoogleMeetBot** [(📍リポジトリ)](https://github.com/AiriNarita/Slack_GoogleMeetBot)
 
    etc...
