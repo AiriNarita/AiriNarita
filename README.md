@@ -20,6 +20,14 @@
 - 🌱 主に**Kotlin** と **SpringBoot** での開発に注力
 - 🚀 DDDでの開発(アジャイル開発)
 - 👨‍💻 バッチ開発, パフォーマンス最適化, バックエンドシステム開発
+- 📝 技術ブログを [Zenn](https://zenn.dev/airiswim) にて更新　  ▶️ [Zennを見に行く](https://zenn.dev/airiswim)
+
+## 🧑‍🏫 登壇
+- 🖊 **釜山:釜慶大学 キャリアセミナー**  
+  `2024年10月 @ 韓国・釜山`  
+  日本のIT業界や文化の違い、キャリアチェンジ体験を大学生向けに登壇。<br>
+　　→　Log:["キャリアチェンジ"について韓国の大学で登壇してきた](https://zenn.dev/airiswim/articles/5345d11251d2db)
+
 
 ## 🏆 Featured Projects (個人開発)
 - [**鍼灸院はりまる HP**](https://www.shinkyu-harimaru.com/) - リポジトリはPrivateにしておりますがぜひサイトをご覧ください
@@ -27,8 +35,6 @@
 - **Slack_GoogleMeetBot** [(📍リポジトリ)](https://github.com/AiriNarita/Slack_GoogleMeetBot)
 
    etc...
-
-- 📝 技術ブログを [Zenn](https://zenn.dev/airiswim) にて更新　  ▶️ [Zennを見に行く](https://zenn.dev/airiswim) 
 
 ## 🛠️ Tech Stack
 
